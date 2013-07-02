@@ -1,0 +1,6 @@
+To run this you need to specify the map as a parameter
+
+e.g.
+
+python traffic_sim.py map.txt
+
